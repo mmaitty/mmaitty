@@ -1,4 +1,9 @@
-### Hi there 👋
+
+👋 Hi, I’m Thitiya
+👀 I’m interested in android Development and ML.
+🌱 I’m currently learning Kotlin
+💞️ I’m looking to collaborate on Metaverse
+📫 How to reach me > Email : thitiya.mmai@g.swu.ac.th
 
 <!--
 **mmaitty/mmaitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
